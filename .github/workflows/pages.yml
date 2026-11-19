@@ -1,0 +1,126 @@
+name: Bootstrap snapshot and deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      restore_snapshot:
+        description: Restore the verified 2026-11-19 snapshot before deployment
+        type: boolean
+        required: true
+        default: true
+
+permissions:
+  contents: write
+  actions: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.repository == 'Subterranean-Sun/n1-study' || github.repository == 'Subterranean-Sun/n1-audio'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    outputs:
+      ready: ${{ steps.site.outputs.ready }}
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Restore verified public snapshot
+        if: github.event_name == 'workflow_dispatch' && inputs.restore_snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          target="${GITHUB_REPOSITORY##*/}"
+          python .github/scripts/restore_snapshot.py \
+            --target "$target" \
+            --work-dir "$RUNNER_TEMP/n1-transport" \
+            --repository-root "$GITHUB_WORKSPACE" \
+            --extract
+
+      - name: Commit restored runtime files
+        if: github.event_name == 'workflow_dispatch' && inputs.restore_snapshot
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all
+          if ! git diff --cached --quiet; then
+            git commit -m 'Restore verified N1 snapshot 2026-11-19'
+            git push origin HEAD:main
+          fi
+
+      - name: Detect deployable website
+        id: site
+        shell: bash
+        run: |
+          set -euo pipefail
+          if test -f index.html; then
+            echo 'ready=true' >> "$GITHUB_OUTPUT"
+          else
+            echo 'ready=false' >> "$GITHUB_OUTPUT"
+            echo 'Snapshot has not been restored yet; skipping Pages for this bootstrap push.'
+          fi
+
+      - name: Configure GitHub Pages
+        if: steps.site.outputs.ready == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Prepare runtime-only Pages artifact
+        if: steps.site.outputs.ready == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -f index.html
+          mkdir -p "$RUNNER_TEMP/n1-pages"
+          rsync -a --exclude='.git' --exclude='.github' ./ "$RUNNER_TEMP/n1-pages/"
+          test -f "$RUNNER_TEMP/n1-pages/index.html"
+
+      - name: Upload Pages artifact
+        if: steps.site.outputs.ready == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/n1-pages
+          retention-days: 1
+
+  deploy:
+    needs: build
+    if: needs.build.outputs.ready == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Remove temporary Pages transport artifact
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api --paginate "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?per_page=100" \
+            --jq '.artifacts[] | select(.name == "github-pages") | .id' > "$RUNNER_TEMP/n1-pages-artifact-ids"
+          while IFS= read -r artifact_id; do
+            if [[ -n "$artifact_id" ]]; then
+              gh api --method DELETE "repos/$GITHUB_REPOSITORY/actions/artifacts/$artifact_id"
+            fi
+          done < "$RUNNER_TEMP/n1-pages-artifact-ids"
