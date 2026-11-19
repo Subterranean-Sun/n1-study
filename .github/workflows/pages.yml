@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
     inputs:
       restore_snapshot:
-        description: Restore the verified 2026-11-19 snapshot before deployment
+        description: Only enable to intentionally restore the original verified 2026-11-19 snapshot
         type: boolean
         required: true
-        default: true
+        default: false
 
 permissions:
   contents: write
