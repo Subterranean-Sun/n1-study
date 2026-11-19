@@ -1,0 +1,14 @@
+{
+  "statistics": {
+    "exams": 32,
+    "groups": 576,
+    "writtenQuestions": 2202,
+    "transcriptQuestions": 1069,
+    "listeningQuestions": 1101,
+    "listeningQuestionsAligned": true,
+    "documentEntries": 3630,
+    "indexEntries": 17203
+  },
+  "editorialNote": "新增讲解与题型学习方法按 clear-chinese-writing 整理。逐题解析沿用题库资料并清理格式，答案与题面的核对状态以各题审校记录为准。两份讲解全文保留原作者的来源与扩展标记。",
+  "issues": []
+}

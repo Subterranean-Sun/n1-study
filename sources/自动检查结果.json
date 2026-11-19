@@ -1,0 +1,543 @@
+{
+  "structure": {
+    "result": "PASS",
+    "checks": 89620,
+    "statistics": {
+      "questions": 3303,
+      "written": 2202,
+      "sorting": 160,
+      "listening": 1101,
+      "segmented": 1042,
+      "listeningReviewed": 1101,
+      "knowledgeIndex": 17203,
+      "htmlPages": 701
+    },
+    "errors": [],
+    "pendingSemanticReviews": []
+  },
+  "runtime": {
+    "checks": 7201,
+    "examCount": 32,
+    "questions": 3303,
+    "result": "PASS"
+  },
+  "media": {
+    "result": "PASS",
+    "files": 32,
+    "bytes": 812659909,
+    "recordings": [
+      {
+        "file": "audio/2010_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3495.653878",
+          "size": "27965582"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2010_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3167.137959",
+          "size": "25337355"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2011_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3477.733878",
+          "size": "27822123"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2011_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3670.674286",
+          "size": "29365646"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2012_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2848.731429",
+          "size": "22790103"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2012_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3492.571429",
+          "size": "27940823"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2013_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3253.864490",
+          "size": "26031167"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2013_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3042.768980",
+          "size": "24342403"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2014_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3163.715918",
+          "size": "25309979"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2014_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3093.342041",
+          "size": "24746988"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2015_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3312.796735",
+          "size": "26502625"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2015_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3650.429388",
+          "size": "29203687"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2016_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3478.230204",
+          "size": "27826093"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2016_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3408.822857",
+          "size": "27270834"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2017_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3157.968980",
+          "size": "25264003"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2017_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3479.797551",
+          "size": "27838632"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2018_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3415.980408",
+          "size": "27328095"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2018_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3261.675102",
+          "size": "26093652"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2019_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3008.940408",
+          "size": "24071775"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2019_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3340.852245",
+          "size": "26727069"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2020_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3278.889796",
+          "size": "26231370"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2021_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3233.933061",
+          "size": "25871716"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2021_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3468.146939",
+          "size": "27745427"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2022_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3190.360816",
+          "size": "25523239"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2022_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2829.714286",
+          "size": "22637966"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2023_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2325.655510",
+          "size": "18605496"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2023_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "3049.090612",
+          "size": "24392976"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2024_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2981.955918",
+          "size": "23855899"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2024_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2735.542857",
+          "size": "21884765"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2025_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2625.410612",
+          "size": "21003536"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2025_12.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2742.831020",
+          "size": "21943001"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      },
+      {
+        "file": "audio/2026_07.mp3",
+        "result": "PASS",
+        "format": {
+          "duration": "2898.076735",
+          "size": "23185884"
+        },
+        "streams": [
+          {
+            "codec_name": "mp3",
+            "sample_rate": "22050",
+            "channels": 1
+          }
+        ],
+        "errors": ""
+      }
+    ]
+  }
+}

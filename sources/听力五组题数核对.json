@@ -1,0 +1,681 @@
+{
+  "exams": 32,
+  "matchingExams": 32,
+  "answerUnits": 1101,
+  "scope": "逐场原卷参考答案表的五组边界目视核查；问题5按独立作答数计，非对话段数。",
+  "results": {
+    "2010_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2010\\2010.07\\2010年07月N1真题.pdf",
+      "referencePage": 16,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2010_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2010\\2010.12\\2010年12月N1真题.pdf",
+      "referencePage": 18,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2011_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2011\\2011.07\\2011年07月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2011_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2011\\2011.12\\2011年12月N1真题.pdf",
+      "referencePage": 16,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2012_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2012\\2012.07\\2012年07月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2012_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2012\\2012.12\\2012年12月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2013_07": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2013\\2013.07\\2013年07月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2013_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2013\\2013.12\\2013年12月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part1.jpg"
+    },
+    "2014_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2014\\2014.07\\2014年07月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2014_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2014\\2014.12\\2014年12月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2015_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2015\\2015.07\\2015年07月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2015_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2015\\2015.12\\2015年12月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg",
+      "sourceIssue": "参考表问题2为7题，原题页漏实际第6，误把真实第7标为第6；录音ASR已确认。"
+    },
+    "2016_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2016\\2016.07\\2016年07月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2016_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2016\\2016.12\\2016年12月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2017_07": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2017\\2017.07\\2017年07月N1真题.pdf",
+      "referencePage": 22,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2017_12": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2017\\2017.12\\2017年12月日语N1真题试卷.pdf",
+      "referencePage": 18,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part2.jpg"
+    },
+    "2018_07": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2018\\2018.07\\2018年07月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2018_12": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2018\\2018.12\\2018年12月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2019_07": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2019\\2019.07\\2019年07月N1真题.pdf",
+      "referencePage": 20,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2019_12": {
+      "referenceAnswerCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "currentQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2019\\2019.12\\2019年12月日语N1真题试卷.pdf",
+      "referencePage": 15,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2020_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2020\\2020.12\\2020年12月N1真题.pdf",
+      "referencePage": 15,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2021_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2021\\2021.07\\2021年07月N1真题.pdf",
+      "referencePage": 24,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2021_12": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2021\\2021.12\\2021年12月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2022_07": {
+      "referenceAnswerCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "currentQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2022\\2022.07\\2022年07月N1真题.pdf",
+      "referencePage": 22,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part3.jpg"
+    },
+    "2022_12": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2022\\2022.12\\2022年12月N1真题.pdf",
+      "referencePage": 17,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2023_07": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2023\\2023.07\\2023年07月N1真题.pdf",
+      "referencePage": 21,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2023_12": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2023\\2023.12\\2023年12月N1真题.pdf",
+      "referencePage": 28,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2024_07": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2024\\2024.07\\2024年07月日语N1真题.pdf",
+      "referencePage": 28,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2024_12": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2024\\2024.12\\2024年12月日语N1真题.pdf",
+      "referencePage": 28,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2025_07": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2025\\2025.07\\2025年07月N1真题.pdf",
+      "referencePage": 48,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2025_12": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2025\\2025.12\\2025年12月N1真题.pdf",
+      "referencePage": 45,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keycontacts/part4.jpg"
+    },
+    "2026_07": {
+      "referenceAnswerCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "currentQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "match": true,
+      "referencePDF": "D:\\日语\\N1真题\\2026\\2026.07\\答案解析和听力原文\\2026年7月N1真题答案+解析+听力原文.pdf",
+      "referencePage": 2,
+      "reviewMethod": "目视原卷参考答案表的听力各组末题号及答案格；问题5按答案格数计。",
+      "evidenceImage": "keyimages/2026_07_analysis_p2.png"
+    }
+  }
+}

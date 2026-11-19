@@ -1,0 +1,864 @@
+{
+  "exams": 32,
+  "questions": 1101,
+  "segments": 1042,
+  "fallback": [
+    [
+      "2026_07",
+      "L4_10",
+      2443.09
+    ],
+    [
+      "2026_07",
+      "L4_11",
+      null
+    ],
+    [
+      "2025_12",
+      "L1_5",
+      465.18
+    ],
+    [
+      "2025_12",
+      "L2_1",
+      null
+    ],
+    [
+      "2025_12",
+      "L3_5",
+      1848.14
+    ],
+    [
+      "2025_12",
+      "L4_1",
+      null
+    ],
+    [
+      "2025_12",
+      "L4_2",
+      2020.83
+    ],
+    [
+      "2025_12",
+      "L4_3",
+      null
+    ],
+    [
+      "2025_12",
+      "L4_5",
+      2124.63
+    ],
+    [
+      "2025_12",
+      "L4_6",
+      null
+    ],
+    [
+      "2025_12",
+      "L4_7",
+      2197.77
+    ],
+    [
+      "2025_12",
+      "L4_8",
+      null
+    ],
+    [
+      "2025_12",
+      "L4_9",
+      2264.8
+    ],
+    [
+      "2025_12",
+      "L4_10",
+      null
+    ],
+    [
+      "2022_12",
+      "L4_10",
+      2373.68
+    ],
+    [
+      "2022_12",
+      "L4_11",
+      null
+    ],
+    [
+      "2021_12",
+      "L4_11",
+      2964.53
+    ],
+    [
+      "2021_12",
+      "L4_12",
+      null
+    ],
+    [
+      "2019_12",
+      "L4_11",
+      2636.12
+    ],
+    [
+      "2019_12",
+      "L4_12",
+      null
+    ],
+    [
+      "2019_07",
+      "L4_10",
+      2396.69
+    ],
+    [
+      "2019_07",
+      "L4_11",
+      null
+    ],
+    [
+      "2017_12",
+      "L4_10",
+      2756.06
+    ],
+    [
+      "2017_12",
+      "L4_11",
+      null
+    ],
+    [
+      "2017_07",
+      "L4_11",
+      2542.77
+    ],
+    [
+      "2017_07",
+      "L4_12",
+      null
+    ],
+    [
+      "2015_12",
+      "L4_11",
+      2950.65
+    ],
+    [
+      "2015_12",
+      "L4_12",
+      null
+    ],
+    [
+      "2015_07",
+      "L4_11",
+      2649.35
+    ],
+    [
+      "2015_07",
+      "L4_12",
+      null
+    ],
+    [
+      "2014_12",
+      "L4_11",
+      2501.64
+    ],
+    [
+      "2014_12",
+      "L4_12",
+      null
+    ],
+    [
+      "2013_12",
+      "L4_1",
+      2087.33
+    ],
+    [
+      "2013_12",
+      "L4_2",
+      null
+    ],
+    [
+      "2013_12",
+      "L4_12",
+      2458.34
+    ],
+    [
+      "2013_12",
+      "L4_13",
+      null
+    ],
+    [
+      "2013_07",
+      "L4_11",
+      2561.19
+    ],
+    [
+      "2013_07",
+      "L4_12",
+      null
+    ],
+    [
+      "2012_12",
+      "L3_5",
+      2288.26
+    ],
+    [
+      "2012_12",
+      "L4_1",
+      null
+    ],
+    [
+      "2012_07",
+      "L1_1",
+      184.93
+    ],
+    [
+      "2012_07",
+      "L1_2",
+      null
+    ],
+    [
+      "2012_07",
+      "L4_3",
+      2095.74
+    ],
+    [
+      "2012_07",
+      "L4_4",
+      null
+    ],
+    [
+      "2012_07",
+      "L4_10",
+      2303.42
+    ],
+    [
+      "2012_07",
+      "L4_11",
+      null
+    ],
+    [
+      "2012_07",
+      "L4_12",
+      null
+    ],
+    [
+      "2012_07",
+      "L4_13",
+      null
+    ],
+    [
+      "2012_07",
+      "L5_1",
+      2415.12
+    ],
+    [
+      "2012_07",
+      "L5_2",
+      null
+    ],
+    [
+      "2011_12",
+      "L4_11",
+      3031.44
+    ],
+    [
+      "2011_12",
+      "L4_12",
+      null
+    ],
+    [
+      "2011_07",
+      "L4_10",
+      2834.88
+    ],
+    [
+      "2011_07",
+      "L4_11",
+      null
+    ],
+    [
+      "2011_07",
+      "L4_12",
+      null
+    ],
+    [
+      "2010_12",
+      "L4_11",
+      2565.88
+    ],
+    [
+      "2010_12",
+      "L4_12",
+      null
+    ],
+    [
+      "2010_07",
+      "L4_11",
+      2884.97
+    ],
+    [
+      "2010_07",
+      "L4_12",
+      null
+    ]
+  ],
+  "originalOptionsMissing": [
+    {
+      "examId": "2015_12",
+      "qid": "L2_6",
+      "status": "原始四选项未找回；按录音重建练习选项并明确标注",
+      "search": "本地真题/听力原文/答案解析均为扫描图，主PDF漏题；Bing精确搜索未检出可用原件；用户指定ZIP路径不存在，但已解压目录可用"
+    }
+  ],
+  "transcriptConflicts": [
+    {
+      "examId": "2025_07",
+      "qid": "L4_6",
+      "status": "给定文字“スケジュールの遅れに天候不良の影響はありません”与参考②逻辑不完全吻合；Vosk/Whisper现场噪声均未能恢复连接词，已保留疑点，不改写成确定原文。"
+    }
+  ],
+  "groups": {
+    "2026_07": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2025_12": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2025_07": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2024_12": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2024_07": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2023_12": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2023_07": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2022_12": {
+      "answerableCounts": [
+        5,
+        6,
+        5,
+        11,
+        3
+      ],
+      "sourceQuestionCounts": [
+        5,
+        6,
+        5,
+        11,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2022_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2021_12": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2021_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2020_12": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        2
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2019_12": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2019_07": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2018_12": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2018_07": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2017_12": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2017_07": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2016_12": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2016_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2015_12": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2015_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2014_12": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2014_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2013_12": {
+      "answerableCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        5,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2013_07": {
+      "answerableCounts": [
+        6,
+        6,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        6,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2012_12": {
+      "answerableCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        5,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2012_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2011_12": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2011_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        13,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        13,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2010_12": {
+      "answerableCounts": [
+        6,
+        7,
+        5,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        5,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    },
+    "2010_07": {
+      "answerableCounts": [
+        6,
+        7,
+        6,
+        14,
+        4
+      ],
+      "sourceQuestionCounts": [
+        6,
+        7,
+        6,
+        14,
+        3
+      ],
+      "source": "录音ASR原文匹配、原卷参考答案表与文字汇总稿交叉；答案表分组视觉复核另见audit/listening_group_counts.json"
+    }
+  },
+  "metadata": "全部分段是自动定位，未逐题人工实听；G5末段两问共享音频。"
+}

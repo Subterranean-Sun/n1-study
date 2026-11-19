@@ -1,0 +1,64 @@
+{
+  "scope": "2010—2015 年共12场听力",
+  "reviewedQuestions": 437,
+  "answerChanges": [],
+  "reviewBasis": "逐题阅读所附日文原文，核对说话人、行动先后、转折、最终决定与答案表；没有宣称所有录音已逐字人工听审。",
+  "explanations": "437题均已写入日文关键句、具体中文理由；任务型题未能读取的纸面选项序号只与参考表对齐。",
+  "genericPaperOptionQuestions": 181,
+  "g4QuestionsWithTextCorrections": 92,
+  "additionalTextCorrectionQuestions": 136,
+  "additionalByExam": {
+    "2010_07": 0,
+    "2010_12": 8,
+    "2011_07": 14,
+    "2011_12": 10,
+    "2012_07": 13,
+    "2012_12": 11,
+    "2013_07": 11,
+    "2013_12": 12,
+    "2014_07": 13,
+    "2014_12": 14,
+    "2015_07": 18,
+    "2015_12": 12
+  },
+  "unresolved": [
+    {
+      "exam": "2013_07",
+      "qid": "L4_7",
+      "issue": "原稿「3日も続け上上」受损；ASR确认「三日も続けば」，后词为「ジョジョ」，结合原稿暂校「上々」，仍待清晰录音逐字确认。"
+    },
+    {
+      "exam": "2015_12",
+      "qid": "L2_6",
+      "issue": "所附PDF漏本题，四个纸面选项原文缺失；录音ASR确认本题为电影预售票题。参考①只与答案表对齐，未宣称四项原文已复核。"
+    }
+  ],
+  "remainingSourceCondition": "其他原文仍有小假名重叠、断句和个别词形损伤，原始合集已保留；不得把本轮校订写成完整逐字转录认证。",
+  "resolvedByAudioASR": [
+    {
+      "exam": "2014_12",
+      "qid": "L4_10",
+      "correction": "選択肢②「時間前にどうかと…」→「時間的にどうかと…」",
+      "positionSeconds": 2482.55
+    },
+    {
+      "exam": "2011_12",
+      "qid": "L4_9",
+      "correction": "信日→今日",
+      "positionSeconds": 2964.84
+    },
+    {
+      "exam": "2010_07",
+      "qid": "L4_5",
+      "correction": "先発→選抜；だけのことがある→だけのことはある",
+      "positionSeconds": 2685.37
+    }
+  ],
+  "sourceNumberingIssues": [
+    {
+      "exam": "2015_12",
+      "group": 2,
+      "issue": "所附PDF漏实际第6题，把录音第7题标为第6题；原音及参考表均7题，本版据此保留7题。"
+    }
+  ]
+}

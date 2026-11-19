@@ -1,0 +1,28 @@
+{
+  "files": {
+    "work\\audit\\exams.json": {
+      "sha256": "961507e1fde4257be211f5cb7c9aeb0e9f94598a8f1113eb3f0def0a7ee816c1",
+      "bytes": 5991423
+    },
+    "work\\knowledge\\knowledge.json": {
+      "sha256": "01d9d482c19a70f3fc94192c60e74750811f235c1884a77d876bcc917ddd3278",
+      "bytes": 17304022
+    },
+    "work\\knowledge\\ui_knowledge.json": {
+      "sha256": "fa71bcd4f9f8b27d156c6439e3eac3619d03cbb2223a35e0ab6dd6711abd283a",
+      "bytes": 3946820
+    },
+    "work\\knowledge\\lessons.json": {
+      "sha256": "1baac709251b12ff6318969b8ba1caa3972254fbe19e00fdb63e94fc1b188cab",
+      "bytes": 7688
+    }
+  },
+  "rules": {
+    "old_chat": "猫咪|踢它|ChatGPT said|You said|如果你愿意|你只要回复|回复继续|下一条我|我可以继续|我重新逐字|我不想假装|我把这些地方|你这次要求我|你上传|我这里没有擅自",
+    "machine_citation": "Scribd|Sources|Thought for|Worked for|oaicite|turn\\d+(?:search|view)\\d+|\\ufffd|[\\u0600-\\u06ff]+",
+    "cross_answer_summary": "这[0-9]+题|这[0-9]+道|最后再给你|最后再把最终答案|答案串|答案序列|答案汇总|答案总表|[1-4①②③④]{8,}"
+  },
+  "hits": [],
+  "confirmedPollution": 0,
+  "scope": "主审非听力题库、知识主库、UI知识索引、18类讲义全文。每项命中仍须读上下文，不能把固定短语零命中称作逐字人工审阅。"
+}

@@ -1,0 +1,451 @@
+{
+  "2026_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2026_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2026\\2026.07\\2026年7月日语能力考N1-音频.mp3",
+      "duration": 2898.050612,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2025_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2025_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2025\\2025.12\\2025年12月日语N1真题听力.mp3",
+      "duration": 2742.804898,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2025_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2025_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2025\\2025.07\\2025年07月JLPT日语N1真题听力（现场版）.MP3",
+      "duration": 2625.358313,
+      "label": "现场录音（来源文件标注）",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2024_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2024_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2024\\2024.12\\2024年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 2735.52,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2024_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2024_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2024\\2024.07\\2024年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 2981.929796,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2023_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2023_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2023\\2023.12\\2023年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3049.06449,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2023_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2023_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2023\\2023.07\\2023年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 2325.629388,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2022_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2022_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2022\\2022.12\\2022年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 2829.688163,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2022_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2022_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2022\\2022.07\\2022年7月日语N1真题听力.mp3",
+      "duration": 3190.334694,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2021_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2021_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2021\\2021.12\\2021年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3468.120816,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2021_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2021_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2021\\2021.07\\2021年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3233.906939,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2020_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2020_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2020\\2020.12\\2020年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3278.863673,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2019_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2019_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2019\\2019.12\\2019年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3340.826122,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2019_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2019_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2019\\2019.07\\2019年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3008.914286,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2018_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2018_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2018\\2018.12\\2018年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3261.64898,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2018_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2018_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2018\\2018.07\\2018年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3415.954286,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2017_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2017_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2017\\2017.12\\2017年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3479.771429,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2017_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2017_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2017\\2017.07\\2017年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3157.942857,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2016_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2016_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2016\\2016.12\\2016年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3408.796735,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2016_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2016_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2016\\2016.07\\2016年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3478.204082,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2015_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2015_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2015\\2015.12\\2015年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3650.403265,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。",
+      "经原始录音与答案表交叉确认：重点理解有7题。PDF漏印真实第6题，并将真实第7题误标第6；第6题的原始四选项尚缺。"
+    ]
+  },
+  "2015_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2015_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2015\\2015.07\\2015年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3312.770612,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2014_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2014_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2014\\2014.12\\2014年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3093.315918,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2014_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2014_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2014\\2014.07\\2014年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3163.689796,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2013_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2013_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2013\\2013.12\\2013年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3042.742857,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2013_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2013_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2013\\2013.07\\2013年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3253.838367,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2012_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2012_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2012\\2012.12\\2012年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3492.545306,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2012_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2012_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2012\\2012.07\\2012年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 2848.705306,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2011_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2011_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2011\\2011.12\\2011年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3670.648163,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2011_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2011_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2011\\2011.07\\2011年07月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3477.707755,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2010_12": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2010_12.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2010\\2010.12\\2010年12月JLPT日语能力考试N1历年真题听力.mp3",
+      "duration": 3167.111837,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  },
+  "2010_07": {
+    "audio": {
+      "sourcePath": "C:\\Users\\Administrator\\Documents\\Codex\\2026-11-17\\new-chat\\work\\audio\\media\\2010_07.mp3",
+      "originalPath": "D:\\日语\\N1真题\\2010\\2010.07\\2010年07月JLPT日语能力考试N1真题听力.mp3",
+      "duration": 3495.627755,
+      "label": "用户提供的历年听力录音",
+      "provenance": "保留完整内容，转为单声道64kbps MP3。年份按原文件夹记录；尚未逐段听辨确认录音与试卷完全对应。",
+      "durationSource": "ffprobe原文件时长"
+    },
+    "issues": [
+      "文字稿由用户汇总稿整理，含可辨识的OCR错字；纸面选项以原卷题图为准。",
+      "逐题音频时间正在通过题号与原文交叉对齐；未定位题目使用整卷播放。"
+    ]
+  }
+}
